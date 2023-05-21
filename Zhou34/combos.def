@@ -1,0 +1,2 @@
+COMB(layerSwitch,    TG(1),         LT(2, KC_TAB), LSFT_T(KC_BSPC))
+COMB(gameToggle ,    TG(6),         LT(5, KC_SPC), LT(3, KC_ENT))
